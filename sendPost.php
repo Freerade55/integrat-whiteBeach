@@ -1,10 +1,10 @@
 <?php
 
 
-$token = "wr_573d804a-2da5-4e2d-a25b-48300ebc15ce"; // токен для авторизации и запросов
+$token = ""; // токен для авторизации и запросов
 $url = 'https://wired.wubook.net/xrws/'; //
-$lcode = "1604759947"; // код личного кабинета в модуле бронирования
-$sendUrl = "https://hub.integrat.pro/api/WhiteBeach/bookmodule/index.php";
+$lcode = ""; // код личного кабинета в модуле бронирования
+$sendUrl = "";
 $te = "test= 1";
 $curl = curl_init();
 curl_setopt_array($curl, array(
