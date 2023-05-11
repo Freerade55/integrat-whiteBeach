@@ -1,0 +1,33 @@
+Array
+(
+    [0] => Array
+        (
+            [event_name] => client_updated
+            [widget_id] => GwKnyIlfEW
+            [user_token] =>
+            [visitor] => Array
+                (
+                    [name] => Георгий
+                    [email] => dsadasdasdsa@mail.ru
+                    [phone] => 89000000098
+                    [description] => тест тест тест описание для АМО
+                    [number] => 24584
+                    [chats_count] => 1
+                )
+
+            [organization] =>
+            [status] => Array
+                (
+                    [id] => 5
+                    [title] => бронирование оформлено
+                )
+
+            [assigned_agent] =>
+            [tags] => Array
+                (
+                )
+
+            [client_id] => 24584
+        )
+
+)
